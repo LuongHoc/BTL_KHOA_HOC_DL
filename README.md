@@ -11,4 +11,4 @@ GVHD: TS. NGUYỄN VĂN HUY
 
 Đề tài : Phân tích hiện tượng nắng nóng và xây dựng mô hình dự đoán nhiệt độ tại Hà Nội, Đà Nẵng và TP.HCM
 
-Link youtube:
+Link youtube: https://youtu.be/bDzERPCekSs
